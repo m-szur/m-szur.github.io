@@ -1,0 +1,10 @@
+table{
+	color:blue;
+	background-color:white;
+	font-weight:bold;
+}
+img{
+	height:300px;
+	width:300px;
+	border-radius:50%;
+}
