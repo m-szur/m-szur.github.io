@@ -1,24 +1,27 @@
 table{
-	text-align:center;
 	font-weight:bold;
 	border-collapse: collapse;
- 	border: 1px solid #eee;
-  	border-bottom: 2px solid #00cccc;
+ 	border: 1px solid #00cccc;
+  	border-bottom: 2px solid black;
+	color: #00cccc;
 }
 tr{
 	color: #555;	
 }
 td{
 	color: #999;
-	border: 1px solid #eee;
+	border: 1px solid black;
 	padding: 12px 35px;
 	border-collapse: collapse;
 	
 }
 
 img{
-	text-align:center;
 	height:300px;
 	width:300px;
 	border-radius:50%;
 }
+body{
+	text-align:center;
+}
+
