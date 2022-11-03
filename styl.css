@@ -1,9 +1,22 @@
 table{
-	color:blue;
-	background-color:white;
 	font-weight:bold;
+	border-collapse: collapse;
+ 	border: 1px solid #eee;
+  	border-bottom: 2px solid #00cccc;
 }
+tr{
+	color: #555;	
+}
+td, th{
+	color: #999;
+	border: 1px solid #eee;
+	padding: 12px 35px;
+	border-collapse: collapse;
+	
+}
+
 img{
+	text-align:center;
 	height:300px;
 	width:300px;
 	border-radius:50%;
