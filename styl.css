@@ -1,19 +1,16 @@
 table{
+    margin-left:auto;
+    margin-right: auto;
 	font-weight:bold;
 	border-collapse: collapse;
  	border: 1px solid #00cccc;
-  	border-bottom: 2px solid black;
+  	border-bottom: 2px solid #00cccc;
+}
+
+td, tr{
 	color: #00cccc;
-}
-tr{
-	color: #555;	
-}
-td{
-	color: #999;
 	border: 1px solid black;
 	padding: 12px 35px;
-	border-collapse: collapse;
-	
 }
 
 img{
@@ -24,4 +21,3 @@ img{
 body{
 	text-align:center;
 }
-
